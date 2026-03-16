@@ -1,9 +1,15 @@
 .carousel,
 .carousel-inner,
 .carousel-item{
-    height: 100%
+    height: 90%;
+    width: 100%;
 }
 
-.carousel-item{
-    width: 50%;
+
+.col{
+    margin-left: 100px;
+}
+
+#szoveg{
+    font-size: 20px;
 }
